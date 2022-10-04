@@ -13,7 +13,7 @@ shared graphics.
 
 [apparel](https://github.com/infoshareacademy/jfddr5-project-html-css/tree/main/apparel).
 ![enter image description here](https://github.com/infoshareacademy/jfddr5-project-html-css/blob/main/apparel/design/desktop-design.jpg) 
-[ecommercej](https://github.com/infoshareacademy/jfddr5-project-html-css/tree/main/ecommerce).
+[ecommerce](https://github.com/infoshareacademy/jfddr5-project-html-css/tree/main/ecommerce).
 ![enter image description here](https://github.com/infoshareacademy/jfddr5-project-html-css/blob/main/ecommerce/design/desktop-design.jpg)
 
 
